@@ -13,3 +13,9 @@ t1_complex = 3.14j
 
 print(t1_complex)
 print(type(t1_complex))
+
+#print absolute of a number
+print(abs(4))
+
+#bin for binary 
+print(bin(8))
