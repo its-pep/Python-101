@@ -11,3 +11,11 @@ print(list1)
 
 list1.append("C")
 print(list1)
+
+print(list1.index("C"))
+
+list1.reverse()
+print(list1)
+
+print(list1.count("C"))
+print(list1)
