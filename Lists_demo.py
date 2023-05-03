@@ -8,3 +8,6 @@ print(list2)
 
 list1[0] = "J"
 print(list1)
+
+list1.append("C")
+print(list1)
