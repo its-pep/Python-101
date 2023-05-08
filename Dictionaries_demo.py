@@ -12,3 +12,5 @@ print(dict1["b"])
 print(dict1.keys())
 print(dict1.values())
 print(dict1.items())
+
+#pop to remove ex. dict1.pop
