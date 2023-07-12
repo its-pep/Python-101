@@ -1,3 +1,3 @@
-# Python-101
+# Python-101 / 100 days of python
 
-This will include my projects from TCM Python 101
+This will include my projects from TCM Python 101 as well as my 100 day of python
