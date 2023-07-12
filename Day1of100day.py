@@ -6,7 +6,7 @@
 print("Hello, World!")  # Print a string
 name = "Alice"
 age = 25
-print("Name:", name, "Age:", age)  # Print multiple objects
+print("Name:", name, "Age:")  # Print multiple objects
 print("One", "Two", "Three") 
 print("Hello","pep ")  
 print("World!")
